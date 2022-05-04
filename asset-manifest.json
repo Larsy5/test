@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.aaa4ef19.chunk.css",
+    "main.js": "/test/static/js/main.6dda4972.chunk.js",
+    "main.js.map": "/test/static/js/main.6dda4972.chunk.js.map",
+    "runtime-main.js": "/test/static/js/runtime-main.582dbaf1.js",
+    "runtime-main.js.map": "/test/static/js/runtime-main.582dbaf1.js.map",
+    "static/js/2.c5261110.chunk.js": "/test/static/js/2.c5261110.chunk.js",
+    "static/js/2.c5261110.chunk.js.map": "/test/static/js/2.c5261110.chunk.js.map",
+    "index.html": "/test/index.html",
+    "precache-manifest.5e25f3cfff81dcd6be95b432115ed088.js": "/test/precache-manifest.5e25f3cfff81dcd6be95b432115ed088.js",
+    "service-worker.js": "/test/service-worker.js",
+    "static/css/main.aaa4ef19.chunk.css.map": "/test/static/css/main.aaa4ef19.chunk.css.map",
+    "static/js/2.c5261110.chunk.js.LICENSE": "/test/static/js/2.c5261110.chunk.js.LICENSE",
+    "static/media/App.css": "/test/static/media/walls.b102b800.jpg",
+    "static/media/ZombiePreview.css": "/test/static/media/zombierun.08087132.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.582dbaf1.js",
+    "static/js/2.c5261110.chunk.js",
+    "static/css/main.aaa4ef19.chunk.css",
+    "static/js/main.6dda4972.chunk.js"
+  ]
+}
